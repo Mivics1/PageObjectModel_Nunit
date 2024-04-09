@@ -18,12 +18,6 @@ This project aims to automate a complete use case using Selenium, C#, the Page O
 - <b>Windows 10</b>
 - <b>Microsoft Visual Studio 2022</b>
 
-<h2>Result:</h2>
-
-<p align="center">
-<img src="https://photos.app.goo.gl/BVN3758NaZtXJpks8" height="80%" width="80%" alt="TestExplorerDisplay"/>
-<br />
-</p>
 
 <!--
  ```diff
